@@ -3,7 +3,7 @@ Flames-Of-Fear Unreal Engine 5 - README
 Game Icon:
 ![FoF Icon](https://github.com/user-attachments/assets/5411bbe6-42c3-4072-8a03-c115803dca89)
 Screenshots Of The Game: 
-![MainMenu](https://github.com/user-attachments/assets/5342c2cb-65f5-4232-a353-be70c3e09b54)
+![MainMenu](https://github.com/user-attachments/assets/5342c2cb-65f5-4232-a353-be70c3e09b54) "width=400 height= 200"
 ![Room1](https://github.com/user-attachments/assets/6f6399a9-04a4-49bb-b13e-146724ced06e)
 ![Room2](https://github.com/user-attachments/assets/99ba2f21-e49f-4b9e-8cea-eb27160fd728)
 ![Room3](https://github.com/user-attachments/assets/dfe6f5d9-51d3-4c8c-8ec9-181505c37c30)
