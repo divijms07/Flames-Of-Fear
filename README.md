@@ -11,6 +11,13 @@ Screenshots Of The Game:
   <img src="https://github.com/user-attachments/assets/99ba2f21-e49f-4b9e-8cea-eb27160fd728" width="600" height="300">
   <img src="https://github.com/user-attachments/assets/dfe6f5d9-51d3-4c8c-8ec9-181505c37c30" width="600" height="300">
 </div>
+
+<h1>Game Walkthrough</h1>
+
+https://github.com/user-attachments/assets/5fe1b7da-90e2-44b3-8273-45d6b6201bad
+
+
+
 # Overview
 --------
 
