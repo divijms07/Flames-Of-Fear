@@ -2,7 +2,7 @@ Flames-Of-Fear Unreal Engine 5 - README
 ================================
 Game Icon:
 <div align="center">
-  ![FoF XHDPI Icon](https://github.com/user-attachments/assets/f0d879de-4fc5-4378-b4cd-1fb483fde8c0)
+  <img src="https://github.com/user-attachments/assets/f0d879de-4fc5-4378-b4cd-1fb483fde8c0" alt="FoF XHDPI Icon" width="150" height="150">
 </div>
 Screenshots Of The Game: 
 <div align="center">
